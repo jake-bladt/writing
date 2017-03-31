@@ -19,3 +19,10 @@ Both parties fight their way to the ruins through orcish tribal lands. The bride
 Inside the spider-filled ruins, the bride finds a grimoire and starts reading, knowing they're still after her.
 
 The climactic battle comes. Orcs and zombies fight. The bride and groom escape. The priest loses his shit. The ranger frags him.
+
+## Facebook.gov
+
+A hard-partying young woman in the near future finds an unknown name listed as a romantic interest on facebook.gov. She doesn't remember him, but she "knows a lot of people" and his profile says he's wealthy and well-connected.
+
+In reality, he's a maintenance programmer for the surveillance state and a revolutionary, looking to undo the changes on American society created by a government that knows where you are and what you're doing all the time.
+
