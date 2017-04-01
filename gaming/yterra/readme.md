@@ -1,4 +1,4 @@
-# Demonlands
+# Yterra
 
 ## Premise
 
@@ -24,4 +24,8 @@ Dragonborn: Dominate the eastern continent with a single empire +WIS +INT -DEX. 
 
 Based loosely on the world in the Thalassan Sphere in which humans have lost to orcs post-Cataclysm. For centuries, only the Dragonborn could stand up to the orcs. Because of their chaotic nature, the orcs turned on each other and lost cohesion in the empire known as Kaza Orok and are now largely confined to a single, massive island in the north.
 
-About three hundred years ago, the gods returned to Yterra 
+About three hundred years ago, the gods returned to Yterra and, unwilling to cede the world to the chaosborn dragons, raised men from beasts.
+
+## Campaign Location
+
+Start the campaign on a medium-sized, tropical island where ships crossing from west to east (and back again) frequently stop to provision and trade. The primary towns are split between fox demons, ape demons, and panther demons with a Dragonborn suzerainty, but any race can be there.
