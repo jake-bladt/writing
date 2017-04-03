@@ -29,3 +29,5 @@ About three hundred years ago, the gods returned to Yterra and, unwilling to ced
 ## Campaign Location
 
 Start the campaign on a medium-sized, tropical island where ships crossing from west to east (and back again) frequently stop to provision and trade. The primary towns are split between fox demons, ape demons, and panther demons with a Dragonborn suzerainty, but any race can be there.
+
+Dragonborn who are there and adventuring should be either criminals or artisans.
