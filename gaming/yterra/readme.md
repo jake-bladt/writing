@@ -16,7 +16,7 @@ Boar-Demons: Live in the temperate zone north of the ape-demons, warlike and sho
 
 Wolf-Demons: Live in the arctic/subarctic zone of the eastern and western continents, nomadic, Mongol/Viking culture. Weres.
 
-Fox-Demons: Live in the temperate region of the eastern continent and spread around the islands between continents. Weres. -1 STR -2 WIS 
+Fox-Demons: Live in the temperate region of the eastern continent and spread around the islands between continents. Weres. -1 STR -2 WIS. Use kitsune legends. 
 
 Dragonborn: Dominate the eastern continent with a single empire +WIS +INT -DEX. Shape shifters.
 
