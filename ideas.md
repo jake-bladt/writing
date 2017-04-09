@@ -28,4 +28,4 @@ In reality, he's a maintenance programmer for the surveillance state and a revol
 
 ## Join Em to Beat Em
 
-
+A brilliant young man sees his family ruined by the bank failure of 2009 and joins Wall Street to get his revenge.
