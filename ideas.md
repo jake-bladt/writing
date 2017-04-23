@@ -29,3 +29,8 @@ In reality, he's a maintenance programmer for the surveillance state and a revol
 ## Join Em to Beat Em
 
 A brilliant young man sees his family ruined by the bank failure of 2009 and joins Wall Street to get his revenge.
+
+## Game Changer
+
+A group of young people play a card game meant to build S-Groups in humanity's twilight.
+
