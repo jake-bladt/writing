@@ -19,3 +19,13 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 **Dragons of the Claw**
 
 **The Calderans** - Playing both sides
+
+**The Daamgard Family** - a trading family from the Cap. They value Ionan independence because a fractured empire is a customer they can negotiate with more fairly.
+
+**Other Cap Families** - Schou, Overgaard, Lind, Toft, Clausen
+
+**Khul** - and the Sunspire gang
+
+**Hylvyzaj** - an island that was once a high mountain pass between the northern and southern parts of the Vestari empire.
+
+**The Elves** - veterans of the war against the Ravening Dark, stranded on Tierra since the Cataclysm.
