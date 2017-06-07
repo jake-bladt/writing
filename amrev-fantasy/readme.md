@@ -34,4 +34,8 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 
 The Knight-General of Iona is sailing north with his wife to attend his brother's wedding. His brother, Kaylen Cullen, the Baron of Northchannel, is marrying Dorete Daughter-of-Erik, a daughter of the Daamgard family. The marriage will cement a trading agreement between the Daamgard and the Cullens for manatite - an exceedingly scarce element that is, effectively, concentrated magic.
 
-This is the first time since the Cataclysm that 
+This is the first time since the Cataclysm that any of the Copstadten have traded manatite with outsiders. Their first leader, Oleg the Prophet, made a rule that manatite was to be kept within the Copstadten, but made enough exceptions that it can now be gifted or "traded with family."
+
+The Archduke has agreed to this marriage because Thalassa needs manatite and spends an enormous amount of resources getting it from poorer sources than the Cap.
+
+The Knight-General has an heirloom sword that freezes a man's blood when it cuts and that effect is from a flake of manatite in an everfrost gem in the hilt. The Jarl Daamgard's gift to his son in law is four ounces of manatite, a fortune. In return, Kaylen's father is sending five hundred trained men, five hundred conscripts, and twenty wizards to the Copstadt Daamgard.
