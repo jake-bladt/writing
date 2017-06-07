@@ -29,3 +29,7 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 **Hylvyzaj** - an island that was once a high mountain pass between the northern and southern parts of the Vestari empire.
 
 **The Elves** - veterans of the war against the Ravening Dark, stranded on Tierra since the Cataclysm.
+
+## Opening Premise
+
+
