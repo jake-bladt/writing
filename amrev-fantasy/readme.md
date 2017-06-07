@@ -32,4 +32,6 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 
 ## Opening Premise
 
+The Knight-General of Iona is sailing north with his wife to attend his brother's wedding. His brother, Kaylen Cullen, the Baron of Northchannel, is marrying Dorete Daughter-of-Erik, a daughter of the Daamgard family. The marriage will cement a trading agreement between the Daamgard and the Cullens for manatite - an exceedingly scarce element that is, effectively, concentrated magic.
 
+This is the first time since the Cataclysm that 
