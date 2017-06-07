@@ -13,3 +13,9 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 **The Cullen Family** - Descended from the Liberator of Iona, the Cullens have built a great trading house under Thalassan rule, but chafe under the limitations of the long, long war.
 
 **The Sons of Liberty** - An anti-war, anti-imperialism group that wants Iona out of the war and out of the draft. They have been accumulating martyrs and political prisoners for a while now.
+
+**The Cenwulf Protectorate**
+
+**Dragons of the Claw**
+
+**The Calderans** - Playing both sides
