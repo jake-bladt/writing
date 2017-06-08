@@ -26,6 +26,8 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 
 **the Jeh-Ahin** - a death cult that believes the cataclysm was meant to wipe Tierra clean and that sinners thwarted the world's destiny, they seek to summon Lord Jeh to destroy the world.
 
+**Utopians** - living on Iona, this group believes they're now living in a golden age before the end of the world and rebuff any efforts to get them to engage with the world around them.
+
 **Khul** - and the Sunspire gang
 
 **Hylvyzaj** - an island that was once a high mountain pass between the northern and southern parts of the Vestari empire.
