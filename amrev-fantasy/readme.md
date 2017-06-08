@@ -24,6 +24,8 @@ Seventy years after a cataclysm that nearly wiped out humanity and goblinized mo
 
 **Other Cap Families** - Schou, Overgaard, Lind, Toft, Clausen
 
+**the Jeh-Ahin** - a death cult that believes the cataclysm was meant to wipe Tierra clean and that sinners thwarted the world's destiny, they seek to summon Lord Jeh to destroy the world.
+
 **Khul** - and the Sunspire gang
 
 **Hylvyzaj** - an island that was once a high mountain pass between the northern and southern parts of the Vestari empire.
