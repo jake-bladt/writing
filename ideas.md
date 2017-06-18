@@ -44,5 +44,4 @@ In the time where most men are infertile...
 
 ## Rockstar Developer
 
-A software developer goes on world tour, writing code for thousands of screaming fans in packed arenas, living the rock and roll lifestyle...
-
+A software developer goes on world tour, writing code for thousands of screaming fans in packed arenas, living the rock and roll lifestyle, goes full Behind the Code (like Behind the Music.)
