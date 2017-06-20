@@ -3,6 +3,7 @@ Resource: WASPy female names
 Amberleigh
 Ashleigh
 Bronwyn
+Charlize
 Chase
 Cricket
 Darcy
@@ -12,6 +13,7 @@ Hunter
 India
 Kendall
 Laurel
+Lindsay
 Lucinda
 Mackenzie
 Madison
