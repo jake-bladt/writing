@@ -2,5 +2,9 @@ Resource: WASPy female names
 
 Amberleigh
 Ashleigh
+Bronwyn
 Chase
+Cricket
+Goneril
 Madison
+Reagan
