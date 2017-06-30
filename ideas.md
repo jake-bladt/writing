@@ -45,3 +45,7 @@ In the time where most men are infertile...
 ## Rockstar Developer
 
 A software developer goes on world tour, writing code for thousands of screaming fans in packed arenas, living the rock and roll lifestyle, goes full Behind the Code (like Behind the Music.)
+
+## The Computer is Your Frenemy
+
+The computer network guaranteeing social stability is suffering from bitrot and slowly going mad. A self-repair subsystem recruits humans to fix the worst of it.
