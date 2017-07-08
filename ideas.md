@@ -53,3 +53,7 @@ The computer network guaranteeing social stability is suffering from bitrot and 
 ## Two Character in Search of a Final Draft
 
 Two people on a blind date find that they can change the world around them with the lies they tell each other. They keep revising the truth until they find one that makes them happy.
+
+## Hagiv
+
+Greetings, comrade!
