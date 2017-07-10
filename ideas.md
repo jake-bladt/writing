@@ -56,4 +56,4 @@ Two people on a blind date find that they can change the world around them with 
 
 ## Hagiv
 
-Greetings, comrade! Hagiv is a combination of D&D and Paranoia - a nation run by socialist Dwarves.
+Greetings, comrade! Hagiv is a combination of D&D and Paranoia - a nation run by socialist Dwarves. Elves are forced into slums. Steam power. Railroads.
