@@ -45,3 +45,15 @@ In the time where most men are infertile...
 ## Rockstar Developer
 
 A software developer goes on world tour, writing code for thousands of screaming fans in packed arenas, living the rock and roll lifestyle, goes full Behind the Code (like Behind the Music.)
+
+## The Computer is Your Frenemy
+
+The computer network guaranteeing social stability is suffering from bitrot and slowly going mad. A self-repair subsystem recruits humans to fix the worst of it.
+
+## Two Character in Search of a Final Draft
+
+Two people on a blind date find that they can change the world around them with the lies they tell each other. They keep revising the truth until they find one that makes them happy.
+
+## Hagiv
+
+Greetings, comrade! Hagiv is a combination of D&D and Paranoia - a nation run by socialist Dwarves. Elves are forced into slums. Steam power. Railroads.
