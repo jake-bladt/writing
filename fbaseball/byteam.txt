@@ -1,0 +1,153 @@
+Arizona Diamondbacks:
+  Archie Bradley, RP (BEG, RNB)
+  Zach Godley, SP (SFR)
+  Steven Souza Jr, OF (BEG*, SFR*)
+
+Atlanta Braves:
+  Ender Inciarte, OF (RNB)
+  Julio Tehran, SP (BEG)
+  Dansby Swanson, SS (BRO)
+
+Baltimore Orioles:
+  Chris Davis, 1B (BEG, AYA)
+  Kevin Gausman, SP (BEG)
+
+Boston Red Sox:
+  Rafael Devers, 3B (AYA)
+  J. D. Martinez, OF (BRO)
+  Eduardo Nunez, 2B/3B/SS/OF (RNB*)
+  Rick Porcello, SP (RNB)
+  David Price, SP (BEG)
+
+Chicago Cubs:
+  Wilson Contreras, C (BEG)
+  Ian Happ, 2B/OF (BEG)
+  Kyle Hendricks, SP (BEG)
+  Jon Lester, SP (AYA)
+  Brandon Morrow, RP (BEG)
+
+Chicago White Sox:
+
+Cincinnati Reds:
+  Edwin Encarnacion, 1B (RNB)
+  Eugenio Suarez, 3B (SFR*)
+
+Cleavland Indians:
+  Mike Clevinger, SP/RP (BEG)
+  Jason Kipnis, 2B/OF (AYA)
+  Jose Ramirez, 2B/3B (BRO)
+
+Colorado Rockies:
+  Charlie Blackmon, OF (RNB)
+  Carlos Gonzalez, OF (AYA)
+  Trevor Story, SS (AYA)
+
+Detroit Tigers:
+
+Houston Astros:
+  Carlos Correa, SS (SFR)
+  Evan Gattis, C (RNB)
+  Dallas Keuchel, SP (BRO)
+  Charlie Morton, SP (AYA)
+
+Kansas City Royals:
+  Lucas Duda, 1B (RNB*)
+  Kevin Herrera, RP (BRO)
+  Salvatore Perez, C (BRO)
+
+Los Angeles Angels:
+  Blake Parker, RP (SFR)
+
+Los Angeles Dodgers:
+  Clayton Kershaw, SP (BEG, BRO)
+
+Miami Marlins:
+  Justin Bour, 1B (BRO*)
+
+Milwaulkee Brewers:
+  Chase Anderson, SP (SFR)
+  Lorenzo Cain, OF (BRO)
+  Jonathan Villar,2B/OF (BEG)
+
+Minnesota Twins:
+  Byron Buxton, OF (AYA)
+  Jose Berrios, SP (BRO)
+  Brian Dozier, 2B (BEG, SFR, RNB, AYA)
+  Max Kepler, OF (BEG, SFR*)
+
+New York Mets:
+  Jacob DeGrom, SP (AYA) 
+  Jeurys Familia, RP (SFR, RNB, AYA)
+  Todd Frazier, 3B (RNB*)
+
+New York Yankees:
+  Miguel Andujar, 3B (BEG*)
+  Brett Gardner, OF (RNB)
+  Sonny Gray, SP (AYA)
+  Didi Gregorious, SS (BRO)
+  Aaron Hicks, OF (BRO*, AYA*)
+  Aaron Judge, OF (AYA)
+  David Robertson, RP (BEG)
+  Gary Sanchez, C (SFR, AYA)
+  Luis Severino, SP (SFR)
+  Masahiro Tanaka, SP (RNB, AYA)
+
+Oakland As:
+  Matt Chapman, 3B (BRO)
+  Khris Davis, OF (RNB, AYA)
+  Sean Manaea, SP (AYA)
+  Matt Olson, 1B/OF (SFR)
+  Marcus Semien, SS (AYA)
+  Blake Treinan, RP (SFR)
+
+Philadelphia Phillies:
+  Aaron Altherr, OF (BEG*, AYA*)
+  Rhys Hoskins, 1B/OF (BRO)
+  Hector Neris, RP (AYA)
+
+Pittsburg Pirates:
+  Starling Marte, OF (BEG, SFR)
+
+San Diego Padres:
+  Dinelson Lamet, SP (SFR*, BRO*)
+  Manuel Margot, OF (BRO)
+  Wil Myers, 1B (BEG)
+
+San Francisco Giants:
+  Evan Longoria, 3B (BEG)
+
+Saint Louis Cardinals:
+  Matt Carpenter, 1B/2B/3B (SFR)
+  Miles Mikolas, SP (BEG, RNB)
+  Tommy Pham, OF (SFR, BRO)
+  Alex Reyes, SP (BEG*, AYA*)
+  Michael Wacha, SP (BRO)
+
+Seattle Mariners:
+  Nelson Cruz, OF (BEG, BRO)
+  Kyle Seager, 3B (RNB, BRO)
+  Jean Segura, SS (BEG, RNB)
+
+Tampa Bay Rays:
+  Chris Archer, SP (SFR, RNB)
+  Jake Faria, SP (SFR, BRO)
+  Mallex Smith, OF (RNB*)
+  Blake Snell, SP (BRO)
+
+Texas Rangers:
+  Adrian Beltre, 3B (SFR)
+  Shin-soo Choo, OF (BEG)
+  Alex Claudio, RP (BRO)
+  Delino DeShields, OF (SFR*)
+  Joey Gallo, 1B/3B/OF (SFR)
+  Nomar Mazara, OF (RNB)
+  Roughned Odor, 2B (SFR)
+
+Toronto Blue Jays:
+  Justin Smoak, 1B (AYA)
+  Yangveris Solarte, 2B/3B/SS (BEG*)
+
+Washington Nationals:
+  Sean Doolittle, RP (RNB)
+  Tanner Roark, SP (RNB)
+  Max Sherzer, SP (RNB)
