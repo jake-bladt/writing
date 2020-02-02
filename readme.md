@@ -1,3 +1,5 @@
 # Writing
 
-An experiment in using git to author fiction
+An experiment in using git to author fiction.
+
+Maybe use underlying database, not git.
